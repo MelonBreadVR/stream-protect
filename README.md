@@ -1,3 +1,5 @@
+This atom plugin will help you protect your sensitive files from being shown accidentally.
+
 #TODOs
 
 ###MVP
