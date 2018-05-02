@@ -1,7 +1,7 @@
 {
   "name": "stream-protect",
   "main": "./lib/stream-protect",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Plugin to prevent you from exposing your secret files by accident, especially useful during live streams",
   "keywords": [],
   "repository": "https://github.com/ChennyBaBy/stream-protect",
