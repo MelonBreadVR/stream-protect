@@ -2,7 +2,7 @@
 
 After installing this plugin go to it's settings, you can add your own filenames of the file you would like this plugin to pick up, when you try to open these sensitive files it will prompt you asking if you are sure you want to read this file right now. if you said no.
 
-I need your help! I'm gathering a list of common files that are sensitive so i can add it to the default values to watch out for in this plugin.
+#### I need your help! I'm gathering a list of common files that are sensitive so I can add it to the default files to watch out for in this plugin. If you have any suggestions on what to add please let me know here.
 
 ## TODOs
 
