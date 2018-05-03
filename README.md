@@ -18,5 +18,5 @@ I need your help! I'm gathering a list of common files that are sensitive so i c
 - [ ] Check if user is streaming
 - [ ] Doesn't check file when user not streaming
 
-##To fix
+## To fix
 - [ ] check existing opened files aren't sensitive as well
